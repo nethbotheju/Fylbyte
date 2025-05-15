@@ -23,7 +23,7 @@ Fylbyte enables users to quickly create dummy files, whether for cleaning up fre
 
 ### Using Pre-Built JAR
 
-1. Download the latest release JAR file.
+1. Download the latest release JAR file from the [Releases page](https://github.com/nethbotheju/Fylbyte/releases).
 2. Run the application using Java:
 
    ```bash
@@ -35,7 +35,7 @@ Fylbyte enables users to quickly create dummy files, whether for cleaning up fre
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/Fylbyte.git
+   git clone https://github.com/nethbotheju/Fylbyte.git
    cd Fylbyte
    ```
 
